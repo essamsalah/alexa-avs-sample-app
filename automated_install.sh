@@ -2,16 +2,17 @@
 
 #-------------------------------------------------------
 # Paste from developer.amazon.com below
+# Edited @ Essam
 #-------------------------------------------------------
 
 # This is the name given to your device or mobile app in the Amazon developer portal. To look this up, navigate to https://developer.amazon.com/edw/home.html. It may be labeled Device Type ID.
-ProductID=YOUR_PRODUCT_ID_HERE
+ProductID=essam_pi_alexa
 
 # Retrieve your client ID from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientID=YOUR_CLIENT_ID_HERE
+ClientID=amzn1.application-oa2-client.0e76927d285644a8a4131d52b1d44e80
 
 # Retrieve your client secret from the web settings tab within the developer console: https://developer.amazon.com/edw/home.html
-ClientSecret=YOUR_CLIENT_SECRET_HERE
+ClientSecret=328fdcb0e790ffa236b2fb64cbe88eac09803796741fa134b9f86ad728d32b13
 
 #-------------------------------------------------------
 # No need to change anything below this...
